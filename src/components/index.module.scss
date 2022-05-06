@@ -1,0 +1,22 @@
+.fullText {
+text-align: center;
+}
+
+.complex {
+  font-weight: 700;
+  font-size: 80px;
+  letter-spacing: 5px;
+  background: linear-gradient(180deg, #60B6FF 0%, rgba(0, 78, 134, 0.8) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+}
+
+.underMainText {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #505050;
+  width: 553px;
+  margin: 0 auto;
+}
